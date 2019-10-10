@@ -1,134 +1,140 @@
 {
-  "series": [
-    {
-      "Series-Title": "Moving Past Tutorials: a course on problem solving for programmers ",
-      "link": "https://dev.to/aspittel/moving-past-tutorials-a-course-on-problem-solving-for-programmers-3oa4",
-      "author": "Ali Spittel"
-    },
-    {
-      "Series-Title": "Ultra List: One List to Rule Them All.",
-      "link": "https://dev.to/teamxenox/-ultra-list-one-list-to-rule-them-all-march-19-4p4f",
-      "author": "Sarthak Sharma"
-    },
-    {
-      "Series-Title": "Dead Simple Python",
-      "link": "https://dev.to/codemouse92/introducing-dead-simple-python-563o",
-      "author": "Jason C. McDonald"
-    },
-    {
-      "Series-Title": "alien articles",
-      "link": "https://dev.to/teamxenox/5-alien-articles-of-the-week-worth-reading--2aom",
-      "author": "Vaibhav"
-    },
-    {
-      "Series-Title": "Underrated Articles",
-      "link": "https://dev.to/teamxenox/underrated-articles-on-devto-last-week-o2l",
-      "author": "Manpreet virk"
-    },
-    {
-      "Series-Title": "Docker - from the beginning",
-      "link": "https://dev.to/azure/docker---from-the-beginning-part-i-28c6",
-      "author": "Chris Noring"
-    },
-    {
-      "Series-Title": "BaseCS Video Series",
-      "link": "https://dev.to/vaidehijoshi/linked-lists--basecs-video-series--2le8",
-      "author": "Vaidehi Joshi"
-    },
-    {
-      "Series-Title": "AWS Developer Associate Certification",
-      "link": "https://dev.to/helenanders26/the-journey-to-aws-certification-1bnn",
-      "author": "Helen Anderson"
-    },
-    {
-      "Series-Title": "Power Up Your Command Line",
-      "link": "https://dev.to/_darrenburns/10-tools-to-power-up-your-command-line-4id4",
-      "author": "Darren Burns"
-    },
-    {
-      "Series-Title": "Business Intelligence",
-      "link": "https://dev.to/helenanders26/thoughts-on-dashboard-design-383d",
-      "author": "Helen Anderson"
-    },
-    {
-      "Series-Title": "Functional fundamentals",
-      "link": "https://dev.to/drbearhands/a-series-on-functional-fundamentals-48mb",
-      "author": "DrBearhands"
-    },
-    {
-      "Series-Title": "Best DEV.to Posts for Beginners",
-      "link": "https://dev.to/desi/best-dev-to-posts-for-beginners-week-of-march-31-2019-4ngg",
-      "author": "Desi"
-    },
-    {
-      "Series-Title": "Azure April",
-      "link": "https://dev.to/azure/create-an-email-subscription-with-azure-functions-part-1-1m0k",
-      "author": "Burke Holland"
-    },
-    {
-      "Series-Title": "AWS DevOps Pro Certification",
-      "link": "https://dev.to/booyaa/aws-devops-pro-certification-blog-post-series-6hg",
-      "author": "Mark Sta Ana"
-    },
-    {
-      "Series-Title": "Blog-A-Day in June",
-      "link": "https://dev.to/samthor/rebuild-only-when-necessary-in-node-506e",
-      "author": "Sam Thorogood"
-    },
-    {
-      "Series-Title": "pattern-design",
-      "link": "https://dev.to/carlillo/design-patterns---strategy-pattern-in-javascript-2hg3",
-      "author": "Carlos Caballero"
-    },
-    {
-      "Series-Title": "SQL 101",
-      "link": "https://dev.to/helenanders26/five-sql-tips-2hb",
-      "author": "Helen Anderson"
-    },
-    {
-      "Series-Title": "Top CSS Interview Questions",
-      "link": "https://dev.to/theodesp/top-css-interview-questions-with-detailed-answers-part-i-5bjh",
-      "author": "Theofanis Despoudis"
-    },
-    {
-      "Series-Title": "SQL 201",
-      "link": "https://dev.to/helenanders26/why-you-should-use-sql-ctes-25lk",
-      "author": "Helen Anderson"
-    },
-    {
-      "Series-Title": "JavaScript Revisited",
-      "link": "https://dev.to/attacomsian/how-to-show-desktop-notifications-using-javascript-5aco",
-      "author": "Atta"
-    },
-    {
-      "Series-Title": "SQL 301",
-      "link": "https://dev.to/helenanders26/sql-301-why-you-need-sql-window-functions-part-1-6e1",
-      "author": "Helen Anderson"
-    },
-    {
-      "Series-Title": "Mindset tips for anyone learning to code",
-      "link": "https://dev.to/skill_pathway/why-learning-to-code-makes-you-feel-incompetentand-ways-to-combat-it-1ch",
-      "author": "Skill Pathway"
-    },
-    {
-      "Series-Title": "5 Tips and Tricks for Firefox DevTools",
-      "link": "https://dev.to/lakatos88/5-tips-and-tricks-for-firefox-devtools-page-inspector-2p95",
-      "author": "Alex Lakatos"
-    },
-    {
-      "Series-Title": "How To Become A Developer",
-      "link": "https://dev.to/codemouse92/how-to-become-a-developer-part-1-coding-skills-5fen",
-      "author": "Jason C. McDonald"
-    },
-    {
-      "Series-Title": "Become a Fullstack JavaScript Developer",
-      "link": "https://dev.to/hoangbkit/become-a-fullstack-javascript-developer-part-1-the-motivation-1h4c",
-      "author": "Hoang Nguyen"
-    },
-    {
-      "Series-Title": "Communicating Technical Debt",
-      "link": "https://dev.to/integerman/communicating-technical-debt-3gbd",
-      "author": "Matt Eland"
-    }
-  ]
+	"series":[
+		{
+			"Series-Title" : "Moving Past Tutorials: a course on problem solving for programmers ",
+			"link" : "https://dev.to/aspittel/moving-past-tutorials-a-course-on-problem-solving-for-programmers-3oa4",
+			"author" : "Ali Spittel"
+		},
+		{
+			"Series-Title" : "Ultra List: One List to Rule Them All.",
+			"link" : "https://dev.to/teamxenox/-ultra-list-one-list-to-rule-them-all-march-19-4p4f",
+			"author" : "Sarthak Sharma"
+		},
+		{
+			"Series-Title" : "Dead Simple Python",
+			"link" : "https://dev.to/codemouse92/introducing-dead-simple-python-563o",
+			"author" : "Jason C. McDonald"
+		},
+		{
+			"Series-Title" : "alien articles",
+			"link" : "https://dev.to/teamxenox/5-alien-articles-of-the-week-worth-reading--2aom",
+			"author" : "Vaibhav"
+		},
+		{
+			"Series-Title" : "Underrated Articles",
+			"link" : "https://dev.to/teamxenox/underrated-articles-on-devto-last-week-o2l",
+			"author" : "Manpreet virk"
+		},
+		{
+			"Series-Title" : "Docker - from the beginning",
+			"link" : "https://dev.to/azure/docker---from-the-beginning-part-i-28c6",
+			"author" : "Chris Noring"
+		},
+		{
+			"Series-Title" : "BaseCS Video Series",
+			"link" : "https://dev.to/vaidehijoshi/linked-lists--basecs-video-series--2le8",
+			"author" : "Vaidehi Joshi"
+		},
+		{
+			"Series-Title" : "AWS Developer Associate Certification",
+			"link" : "https://dev.to/helenanders26/the-journey-to-aws-certification-1bnn",
+			"author" : "Helen Anderson"
+		},
+		{
+			"Series-Title" : "Power Up Your Command Line",
+			"link" : "https://dev.to/_darrenburns/10-tools-to-power-up-your-command-line-4id4",
+			"author" : "Darren Burns"
+		},
+		{
+			"Series-Title" : "Business Intelligence",
+			"link" : "https://dev.to/helenanders26/thoughts-on-dashboard-design-383d",
+			"author" : "Helen Anderson"
+		},
+		{
+			"Series-Title" : "Functional fundamentals",
+			"link" : "https://dev.to/drbearhands/a-series-on-functional-fundamentals-48mb",
+			"author" : "DrBearhands"
+		},
+		{
+			"Series-Title" : "Best DEV.to Posts for Beginners",
+			"link" : "https://dev.to/desi/best-dev-to-posts-for-beginners-week-of-march-31-2019-4ngg",
+			"author" : "Desi"
+		},
+		{
+			"Series-Title" : "Azure April",
+			"link" : "https://dev.to/azure/create-an-email-subscription-with-azure-functions-part-1-1m0k",
+			"author" : "Burke Holland"
+		},
+		{
+			"Series-Title" : "AWS DevOps Pro Certification",
+			"link" : "https://dev.to/booyaa/aws-devops-pro-certification-blog-post-series-6hg",
+			"author" : "Mark Sta Ana"
+		},
+		{
+			"Series-Title" : "Blog-A-Day in June",
+			"link" : "https://dev.to/samthor/rebuild-only-when-necessary-in-node-506e",
+			"author" : "Sam Thorogood"
+		},
+		{
+			"Series-Title" : "pattern-design",
+			"link" : "https://dev.to/carlillo/design-patterns---strategy-pattern-in-javascript-2hg3",
+			"author" : "Carlos Caballero"
+		},
+		{
+			"Series-Title" : "SQL 101",
+			"link" : "https://dev.to/helenanders26/five-sql-tips-2hb",
+			"author" : "Helen Anderson"
+		},
+		{
+			"Series-Title" : "Top CSS Interview Questions",
+			"link" : "https://dev.to/theodesp/top-css-interview-questions-with-detailed-answers-part-i-5bjh",
+			"author" : "Theofanis Despoudis"
+		},
+		{
+			"Series-Title" : "SQL 201",
+			"link" : "https://dev.to/helenanders26/why-you-should-use-sql-ctes-25lk",
+			"author" : "Helen Anderson"
+		},
+		{
+			"Series-Title" : "JavaScript Revisited",
+			"link" : "https://dev.to/attacomsian/how-to-show-desktop-notifications-using-javascript-5aco",
+			"author" : "Atta"
+		},
+		{
+			"Series-Title" : "SQL 301",
+			"link" : "https://dev.to/helenanders26/sql-301-why-you-need-sql-window-functions-part-1-6e1",
+			"author" : "Helen Anderson"
+		},
+		{
+			"Series-Title" : "Mindset tips for anyone learning to code",
+			"link" : "https://dev.to/skill_pathway/why-learning-to-code-makes-you-feel-incompetentand-ways-to-combat-it-1ch",
+			"author" : "Skill Pathway"
+		},
+		{
+			"Series-Title" : "5 Tips and Tricks for Firefox DevTools",
+			"link" : "https://dev.to/lakatos88/5-tips-and-tricks-for-firefox-devtools-page-inspector-2p95",
+			"author" : "Alex Lakatos"
+		},
+		{
+			"Series-Title" : "How To Become A Developer",
+			"link" : "https://dev.to/codemouse92/how-to-become-a-developer-part-1-coding-skills-5fen",
+			"author" : "Jason C. McDonald"
+		},
+		{
+			"Series-Title" : "Become a Fullstack JavaScript Developer",
+			"link" : "https://dev.to/hoangbkit/become-a-fullstack-javascript-developer-part-1-the-motivation-1h4c",
+			"author" : "Hoang Nguyen"
+		},
+		{
+			"Series-Title" : "Communicating Technical Debt",
+			"link" : "https://dev.to/integerman/communicating-technical-debt-3gbd",
+			"author" : "Matt Eland"
+		},
+		{
+			"Series-Title" : "Coding Concepts - Generics",
+			"link" : "https://dev.to/designpuddle/coding-concepts---generics-34cf",
+			"author" : "Chris Bertrand"
+		}
+	]
 }
+
